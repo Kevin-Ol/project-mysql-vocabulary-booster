@@ -15,7 +15,7 @@ métodos JOIN e UNION, manipulações de strings e operações aritméticas, agr
 2. Clone o repositório
   * `git clone git@github.com:Kevin-Ol/project-mysql-vocabulary-booster.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd mysql-vocabulary-booster`
+    * `cd project-mysql-vocabulary-booster`
 
 3. Instale as dependências
   * `npm install`
